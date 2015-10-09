@@ -1,18 +1,6 @@
-[![Build Status](https://travis-ci.org/ingadhoc/odoo-addons.svg?branch=8.0)](https://travis-ci.org/ingadhoc/odoo-addons)
-[![Coverage Status](https://coveralls.io/repos/ingadhoc/odoo-addons/badge.png?branch=8.0)](https://coveralls.io/r/ingadhoc/odoo-addons?branch=8.0)
-
-# odoo-addons
-
-## Installation
-
-### Dependencies
-
-    sudo pip install -r requirements.txt
-
-If you don't have Pip, find it here: http://pypi.python.org/pypi/pip
+# account journal payment subtype
 
 ## Contributing
-We follow some guidelines and advice than [Odoo Argentina](https://github.com/ingadhoc/odoo-argentina/wiki). In summary:
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
